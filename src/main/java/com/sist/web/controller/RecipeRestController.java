@@ -64,7 +64,6 @@ public class RecipeRestController {
 			map.put("iList", iList);
 			map.put("tList", tList);
 			map.put("vo", vo);
-			map.put("data", data);
 		}catch(Exception ex)
 		{
 			ex.printStackTrace();
